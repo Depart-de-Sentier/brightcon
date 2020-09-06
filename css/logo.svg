@@ -1,0 +1,7 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="3em">B</text> -->
+    <path d="M 5 45 c 0 -20 20 -40 40 -40" stroke="rgb(74, 121, 182)" fill="transparent" stroke-width="3"/>
+    <path d="M 55 5 c 20 0 40 20 40 40" stroke="rgb(235, 187, 65)" fill="transparent" stroke-width="3"/>
+    <path d="M 95 55 c 0 20 -20 40 -40 40" stroke="rgb(99, 171, 218)" fill="transparent" stroke-width="3"/>
+    <path d="M 45 95 c -20 0 -40 -20 -40 -40" stroke="rgb(41, 56, 75)" fill="transparent" stroke-width="3"/>
+</svg>

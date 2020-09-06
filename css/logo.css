@@ -1,0 +1,29 @@
+.logo {
+    font-family: 'Roboto Slab', serif;
+    float: left;
+    font-size: 4em;
+    color: rgb(41, 56, 75);
+    background-image: url(logo.svg);
+    width: 10rem;
+    height: 10rem;
+    margin: 0 2.5rem 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+    color: rgb(74, 121, 182);
+    margin-bottom: 0.2rem;
+    margin-left: 0.3rem;
+}
+
+.logo-h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2em;
+    color: rgb(235, 187, 65);
+    margin-bottom: 0.2rem;
+    margin-left: 0.3rem;
+}
