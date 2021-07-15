@@ -3,7 +3,8 @@
     float: left;
     font-size: 3em;
     /*color: rgb(41, 56, 75);*/
-    background-image: url(brightcon_logo_2021.svg);
+    background-image: url(website_logo.svg);
+    /*background-image: url(brightcon_logo_2021.svg);*/
     background-repeat: no-repeat;
     background-size: auto auto;
     width: 14rem;
