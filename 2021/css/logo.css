@@ -17,7 +17,7 @@
 
 .logo-h1 {
     font-family: 'Antic Didone', serif;
-    font-size: 3em;
+    font-size: 2em;
     color: #C6E8EA;
     margin-bottom: 0.2rem;
     margin-left: 0.3rem;
@@ -25,9 +25,14 @@
 
 .logo-h2 {
     font-family: 'Antic Didone', serif;
-    font-size: 2em;
+    font-size: 1.5em;
     color: #E2E07E;
     margin-bottom: 0.2rem;
     margin-left: 0.3rem;
+}
+
+@media (min-width: 550px) {
+  .logo-h1 { font-size: 3em; }
+  .logo-h2 { font-size: 2em; }
 }
 
