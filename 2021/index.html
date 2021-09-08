@@ -14,6 +14,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/custom.css">
   <link rel="stylesheet" href="css/logo.css">
   <!-- Logo designed by Aleksandra Kim, thanks a lot! -->
   <link rel="stylesheet" href="css/skeleton.css">
@@ -42,23 +43,97 @@
       </div>
     </div>
     <div class="row">
-        <h2>Conference</h2>
-        <p>Brightcon 2021 will be held on September 15, 2021, from <a href="https://time.is/0900_15_Sept_2021_in_CEST?Brightcon_2021">9:00</a> to <a href="https://time.is/1630_15_Sept_2021_in_CEST?Brightcon_2021">16:30</a> <a href="https://en.wikipedia.org/wiki/Central_European_Summer_Time">CEST</a>. If conditions permit, it will be a hybrid conference, with at least one on-site location at ETHZ in Zürich, Switzerland; online attendance via <a href="https://psich.zoom.us/j/9208408267">Zoom</a>. Attendance is free, but please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTi9iJtIsN1XxoqmyICcTKMRnMp266zRR2DBIOKQe2T-OPrA/viewform?usp=sf_link">register if you wish to attend in person</a>, as space is limited.</p>
+      <ul class="navbar-list">
+        <li class="navbar-item">
+          <a class="navbar-link" href="#conference">Conference</a>
+        </li>
+        <li class="navbar-item">
+          <a class="navbar-link" href="#schedule">Draft schedule</a>
+        </li>
+        <li class="navbar-item">
+          <a class="navbar-link" href="#party">Party & hackathon</a>
+        </li>
+        <li class="navbar-item">
+          <a class="navbar-link" href="#support">Support sessions</a>
+        </li>
+        <li class="navbar-item">
+          <a class="navbar-link" href="#previous">Previous conferences</a>
+        </li>
+      </ul>
+    </div>
+    <div class="row">
+        <h2 id="conference">Conference</h2>
+        <p>Brightcon 2021 will be held on September 15, 2021, from <a href="https://time.is/0900_15_Sept_2021_in_CEST?Brightcon_2021">9:00</a> to <a href="https://time.is/1630_15_Sept_2021_in_CEST?Brightcon_2021">16:30</a> <a href="https://en.wikipedia.org/wiki/Central_European_Summer_Time">CEST</a>. It will be a hybrid conference, with a meeting at ETHZ in Zürich, Switzerland, in addition to online attendance via <a href="https://psich.zoom.us/j/9208408267">Zoom</a>. Attendance is free, but we have reached physical capacity for the meeting room given COVID-19 restrictions, so in-person registration is closed.
 
         <p>To stay updated on this annual conference, subscribe to our <a href="https://brightway.groups.io/g/brightcon">mailing list</a>.</p>
 
-        <h2>Call for talks</h2>
-        <p>Please submit talk proposals to the Brightcon organization email: <a href="mailto:brightcon-organization@brightway.groups.io">brightcon-organization@brightway.groups.io</a>. Your proposal should include your name, and talk title, brief abstract, and session. You can also organize special sessions! The sessions included so far are:</p>
-        <ul>
-          <li>Project showcase: Brightway</li>
-          <li>Project showcase: Other open software and data</li>
-          <li>Idea marketplace: Introduce your incomplete idea, or identify areas where open approaches are needed, and find others to work with</li>
-          <li>Release party: Release and show off your open software or data</li>
-        </ul>
+        <h2 id="schedule">Draft schedule</h2>
+        <p>Note: <b>Subject to Change!</b> One can't plan too far in advance nowadays.</p>
 
-        <p>Talk proposals should be submitted by September 1<sup>st</sup>.</p>
+        <table class="u-full-width">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Session</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>09:00 - 09:10</td>
+              <td>Introduction</td>
+            </tr>
+            <tr>
+              <td>09:10 - 10:00</td>
+              <td>Open science outside the LCA sphere</td>
+            </tr>
+            <tr>
+              <td>10:00 - 10:30</td>
+              <td>Building on existing foundations</td>
+            </tr>
+            <tr>
+              <td>10:30 - 11:00</td>
+              <td>Coffe break and group discussions</td>
+            </tr>
+            <tr>
+              <td>11:00 - 11:45</td>
+              <td>An integrated future</td>
+            </tr>
+            <tr>
+              <td>11:45 - 12:00</td>
+              <td>State of the art: Perspectives from a newcomer & group discussion</td>
+            </tr>
+            <tr>
+              <td>12:00 - 13:30</td>
+              <td>Lunch</td>
+            </tr>
+            <tr>
+              <td>13:30 - 14:15</td>
+              <td>Forum on usefulness of blockchains in sustainability assessment</td>
+            </tr>
+            <tr>
+              <td>14:15 - 15:00</td>
+              <td>News of the World Part 1</td>
+            </tr>
+            <tr>
+              <td>15:00 - 15:10</td>
+              <td>Break</td>
+            </tr>
+            <tr>
+              <td>15:10 - 15:55</td>
+              <td>News of the World Part 2</td>
+            </tr>
+            <tr>
+              <td>15:55 - 16:20</td>
+              <td>Idea marketplace</td>
+            </tr>
+            <tr>
+              <td>16:20 - 16:30</td>
+              <td>Wrap-up, hackathon & party logistics</td>
+            </tr>
+          </tbody>
+        </table>
 
-        <h2>Party & Hackathon</h2>
+        <h2 id="party">Party & Hackathon</h2>
         <p>In addition to the conference, there will be a party celebrating our community on the evening of September 15 at <a href="https://map.search.ch/Riniken,Dorfsteig-8">Dorfsteig 8, 5223 Riniken</a>, about 30 minutes from Zürich. We will also have a hackathon on September 16 & 17 at the same location, with food and lodging provided to participants. Possible hackathon topics include:</p>
 
         <ul>
@@ -68,9 +143,19 @@
           <li>Brightway 3 ontology and database schema</li>
         </ul>
 
-        <p>Hackathon participants will be expected to attend an organizational meeting before the hackathon, and prepare enough to make a meaningful contribution.</p>
+        <h2 id="support">Support sessions</h2>
+        <p>In the run up to Brightcon 2021, we will be offering online support & discussion sessions for Brightway on <a href="https://psich.zoom.us/j/9208408267">Zoom</a>. Please register by <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcigGg4X4vZ91Pfau8o5pm0WJ_Oc4qJgg_aW1qHEllar6juQ/viewform?usp=sf_link">responding to this poll</a>. The times are dates are:</p>
 
-        <h2>Previous conferences</h2>
+        <ul>
+          <li><del>Thursday, August 19 15:00 - 16:30 <a href="https://www.timeanddate.com/time/zones/cest">CEST</a></del></li>
+          <li><del>Friday, August 27 15:00 - 16:30 <a href="https://www.timeanddate.com/time/zones/cest">CEST</a></del></li>
+          <li><del>Thursday, September 2 15:00 - 16:30 <a href="https://www.timeanddate.com/time/zones/cest">CEST</a></del></li>
+          <li>Friday, September 10 15:00 - 16:30 <a href="https://www.timeanddate.com/time/zones/cest">CEST</a></li>
+        </ul>
+
+        <p>These support sessions are a time for you to ask any questions you might have. If you have detailed technical questions, please email them in advance to <a href="mailto:cmutel@gmail.com">Chris Mutel</a> so that he has time to prepare a good answer. All questions are welcome!</p>
+
+        <h2 id="previous">Previous conferences</h2>
         <p>Slides and videos from 2020 can be found at <a href="https://2020.brightcon.link/">2020.brightcon.link</a></p>
     </div>
   </div>

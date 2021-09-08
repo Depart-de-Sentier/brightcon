@@ -12,20 +12,23 @@ Introduction
 * Openmod (TBC)
 * HESTIA (TBC)
 * OpenLCA (TBC)
+* GLAD (TBC)
 
 10:00 - 10:30 Building on existing foundations
 
 * AB team
 * Romain Sacchi
 
-10:30 - 10:45 Coffee break
+10:30 - 11:00
 
-10:45 - 11:45 An integrated future
+* Coffee break
+* Group discussion on usefulness of prospective consequential databases
+
+11:00 - 11:45 An integrated future
 
 * M. Marcus Arulraj
 * Praveen Raj Uchil
 * Bartolomeus (TBC)
-* Peters
 
 11:45 - 11:50 Green Effort: Perspectives from an outsider (TBC)
 
@@ -35,16 +38,20 @@ Introduction
 
 13:30 - 14:15 Forum on usefulness of blockchains in sustainability assessment
 
-14:15 - 15:15 News of the World
+14:15 - 15:00 News of the World Part 1
 
 * Savioli
 * Birney
 * Young
+
+15:00 - 15:10 Coffee break
+
+15:10 - 15:55 News of the World Part 2
+
 * Heyns
 * Edelen
+* Peters
 
-15:15 - 15:30 Coffee break
+15:55 - 16:20 Idea marketplace
 
-15:30 - 16:15 Idea marketplace
-
-16:15 - 16:30 Wrap-up, hackathon organization and participation, party
+16:20 - 16:30 Wrap-up, hackathon organization and participation, party
