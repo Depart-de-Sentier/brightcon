@@ -43,7 +43,7 @@ Introduction
 * _Towards a community-based open inventory database (for energy systems analysis)_ - Jens F. Peters
 
 14:45 - 14:50 Break
-_
+
 14:50 - 15:55 News of the World Part 2 - LCA Domain OSS Ecosystem @ USEPA
 
 moderator: Wesley Ingwersen, USEPA
