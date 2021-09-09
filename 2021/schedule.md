@@ -45,6 +45,7 @@ Introduction
 14:45 - 14:50 Break
 _
 14:50 - 15:55 News of the World Part 2 - LCA Domain OSS Ecosystem @ USEPA
+
 moderator: Wesley Ingwersen, USEPA
 
 * Ecosystem Overview - Wesley Ingwersen, USEPA
