@@ -9,9 +9,9 @@ Introduction
 
 * Freiburg (Confirmed)
 * IRP (Confirmed)
+* OpenLCA (Confirmed)
 * Openmod (TBC)
 * HESTIA (TBC)
-* OpenLCA (TBC)
 * GLAD (TBC)
 
 10:00 - 10:30 Building on existing foundations
@@ -28,7 +28,7 @@ Introduction
 
 * M. Marcus Arulraj
 * Praveen Raj Uchil
-* Bartolomeus (TBC)
+* Bartolomeus
 
 11:45 - 11:50 Green Effort: Perspectives from an outsider (TBC)
 
