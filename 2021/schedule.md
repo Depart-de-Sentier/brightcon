@@ -44,17 +44,20 @@ Introduction
 
 14:45 - 14:50 Break
 _
-14:50 - 15:55 News of the World Part 2 - LCA Domain OSS Ecosystem @ USEPA
+14:50 - 16:00 LCA Domain OSS Ecosystem @ USEPA
 
 moderator: Wesley Ingwersen, USEPA
 
 * Ecosystem Overview - Wesley Ingwersen, USEPA
-* Principles of the Federal LCA Commons Elementary Flow List - Ashley Edelen, ERG (TBC)
+* Principles of the Federal LCA Commons Elementary Flow List - Ashley Edelen, ERG
 
 Tool Snapshots
+* LCIAFormatter - Ben Young, ERG
 * _FLOWSA: An open-source python package for estimating direct US industry resource use, waste, emissions, and other flows_ - Catherine Birney, USEPA
-* LCIAFormatter - Ben Young, ERG (TBC)
 
-15:55 - 16:20 Idea marketplace
+Upcoming Events
+* Sustainable Communities Challenge Event Promo - Loren Heyns, Georgia Centers for Innovation
+
+16:00 - 16:20 Idea marketplace
 
 16:20 - 16:30 Wrap-up, hackathon organization and participation, party
