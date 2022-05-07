@@ -1,4 +1,5 @@
 name: Sync latest website content
+on: [push]
 uses: appleboy/ssh-action@master
 with:
   host: ${{ secrets.HOST }}
