@@ -1,9 +1,16 @@
 name: Sync latest website content
 on: [push]
-uses: appleboy/ssh-action@master
-with:
-  host: ${{ secrets.HOST }}
-  username: ${{ secrets.USERNAME }}
-  key: ${{ secrets.KEY }}
-  port: ${{ secrets.PORT }}
-  script: cd brighton && git pull https://github.com/Depart-de-Sentier/brightcon.git
+jobs:
+
+  synnc-website-content:
+    name: Sync website content SSH
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh command
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        script: cd brighton && git pull https://github.com/Depart-de-Sentier/brightcon.git
